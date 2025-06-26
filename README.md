@@ -60,7 +60,7 @@ Kami akan fokus pada perbandingan aspek-aspek berikut (namun tidak terbatas pada
     Generated bash
 
 
-    git clone https://github.com/USERNAME_ANDA/Comparison-tauri-electron.git
+    git clone https://github.com/FajarFE/Comparison-Tauri-VS-Electron.git
     cd Comparison-tauri-electron
 
 
@@ -74,21 +74,5 @@ Kami akan fokus pada perbandingan aspek-aspek berikut (namun tidak terbatas pada
 
     Baca COMPARISON.md (atau nama file analisis yang Anda pilih) untuk ringkasan perbandingan.
 
-🤝 Kontribusi
 
-Kontribusi sangat kami hargai! Jika Anda memiliki ide, perbaikan, atau ingin menambahkan aspek perbandingan lain, silakan:
-
-    Fork repositori ini.
-
-    Buat branch baru (git checkout -b fitur/nama-fitur-anda).
-
-    Commit perubahan Anda (git commit -am 'Menambahkan fitur baru').
-
-    Push ke branch (git push origin fitur/nama-fitur-anda).
-
-    Buat Pull Request baru.
-
-Silakan baca CONTRIBUTING.md untuk detail lebih lanjut (jika Anda membuatnya).
-📄 Lisensi
-
-Proyek ini dilisensikan di bawah Lisensi [NAMA_LISENSI_ANDA, contoh: MIT] - lihat file LICENSE untuk detailnya.
+Proyek ini dilisensikan di bawah Lisensi [Fajar Fernandi,  MIT] - lihat file LICENSE untuk detailnya.
